@@ -67,3 +67,10 @@ git fetch upstream # for each time
 git checkout master # or main if master is not your branch
 git rebase upstream/master # well done
 ```
+
+#### View log of all commits
+
+```
+git log
+git log --max-count=10 # retrieve only 10 latest commits
+```
