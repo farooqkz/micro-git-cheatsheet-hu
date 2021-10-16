@@ -6,18 +6,17 @@ Micro Git cheatsheet containing only so necessary commands. For Hormozgan Univer
 
 ### What is a VCS?
 
-Version control systems are software that help track changes make in code over time. As a developer edits code, the version control system takes a snapshot of the files. It then saves that snapshot permanently so it can be recalled later if needed.
-
-Benefits of VCSs:
- - You'll always have history of your code.
- - They are great for team/group work.
- - You will be able to automate tasks. Thus saving your team's time.
+> Version control systems are software that help track changes make in code over time. As a developer edits code, the version control system takes a snapshot of the files. It then saves that snapshot permanently so it can be recalled later if needed.
+> Benefits of VCSs:
+> - You'll always have history of your code.
+> - They are great for team/group work.
+> - You will be able to automate tasks. Thus saving your team's time.
 
 Source: [Microsoft DevOps Docs](https://docs.microsoft.com/en-us/devops/develop/git/what-is-version-control)
 
 ### What is Git?
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+> Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 Source: [Git SCM](https://git-scm.com/)
 
