@@ -2,7 +2,9 @@
 
 ### What is this?
 
-Micro Git cheatsheet containing only so necessary commands. For Hormozgan University Git workshop
+Micro Git cheatsheet containing only so necessary commands. This has been written for Hormozgan University Git workshop but is free for use for all.
+
+PRs are welcome, but keep things simple.
 
 ### What is a VCS?
 
