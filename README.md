@@ -76,4 +76,4 @@ git log --max-count=10 # retrieve only 10 latest commits
 ```
 
 
-Thanks for attending. 
+Thanks for reading. 
