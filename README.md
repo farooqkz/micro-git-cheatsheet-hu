@@ -41,12 +41,6 @@ git add myfile1.py myfile2.py
 git commit -m "meaningful commit message"
 ```
 
-#### Commit a single file
-
-```
-git commit -m "meaningful commit message" myfile.py
-```
-
 #### Push changes to remote repository
 
 ```
